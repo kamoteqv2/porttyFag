@@ -15,9 +15,9 @@ Download the latest release of PorttyFag.exe from the official GitHub repository
 Extract the downloaded zip file to a directory of your choice.
 Usage
 
-Open your CLI.
-Navigate to the directory where PorttyFag.exe is installed.
-Execute the following command:
+- Open your CLI.
+- Navigate to the directory where PorttyFag.exe is installed.
+- Execute the following command:
 
 ```
 porttyFag.exe --url <baseURL> --camindex <camera_index> --pinnum <pin_number>
@@ -29,7 +29,7 @@ Make sure to replace the following values:
 - <camera_index>: the index of your camera
 - <pin_number>: the number of the pin you want to use
 
-*** For example:
+***For example:***
 
 ```
 porttyFag.exe --url http://192.168.100.18/deadbeeffeed/json/ --camindex 1 --pinnum 7
