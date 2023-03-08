@@ -1,6 +1,8 @@
 ## How to Use PorttyFag.exe for Face Recognition
 ### Overview
-***PorttyFag.exe*** is a tool that enables users to use facial recognition to trigger a specific output pin on any microcontroller that supports KMQ firmware. After running the program, a folder called "allow" will be created. This folder is where you should add any images that you want the webcam to recognize and trigger the pin if a match is found. Additionally, a screenshot of the captured image will be saved to a folder called "hit."
+***PorttyFag.exe*** is a tool that enables users to use facial recognition to trigger a specific output pin on any microcontroller that supports KMQ firmware Link here https://github.com/kamoteqv2/kamoteq-switch-v2
+
+After running the program, a folder called "allow" will be created. This folder is where you should add any images that you want the webcam to recognize and trigger the pin if a match is found. Additionally, a screenshot of the captured image will be saved to a folder called "hit."
 
 ### Prerequisites
 Before you begin, make sure you have the following:
