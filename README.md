@@ -43,7 +43,7 @@ After executing the command, a folder called "allow" will be created in the same
 If you encounter any issues with ***PorttyFag.exe***, please refer to the official documentation or file a bug report on the official GitHub repository.
 
 ### License
-***PorttyFag.exe*** is released under the MIT License.
+For Personal Use only | Not for Commercial.
 
 ### Credit:
 
